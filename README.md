@@ -1,2 +1,2 @@
-# laboratornaya-rabota-2-lisp-0ReC0
-laboratornaya-rabota-2-lisp-0ReC0 created by GitHub Classroom
+# Лабораторная работа 2
+## Выполнил Китанин С.С.
